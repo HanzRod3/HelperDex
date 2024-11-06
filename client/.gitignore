@@ -25,3 +25,4 @@ dist-ssr
 
 .env
 mongoose.config.js
+node_modules
