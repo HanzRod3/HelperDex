@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-.env
-mongoose.config.js
-node_modules
+server/.env
+server/config/mongoose.config.js
+client/node_modules
+server/node_modules
